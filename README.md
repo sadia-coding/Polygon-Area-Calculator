@@ -1,2 +1,34 @@
-# Polygon-Area-Calculator
-Python OOP project demonstrating Rectangle and Square classes using inheritance, method overriding, and abstraction. Includes area, perimeter, diagonal calculations, shape visualization using text, and logic to determine how many shapes fit inside another. Built to strengthen core Object-Oriented Programming concepts in Python.
+# Rectangle & Square OOP Project 🟦🟥
+
+This project demonstrates Object-Oriented Programming concepts in Python using Rectangle and Square classes.
+
+---
+
+## 🚀 Features
+
+### Rectangle Class:
+- Calculate Area
+- Calculate Perimeter
+- Calculate Diagonal
+- Generate text-based shape using `*`
+- Check how many shapes fit inside another
+
+### Square Class:
+- Inherits from Rectangle
+- Ensures width = height always
+- Overrides setter methods
+- Custom string representation
+
+---
+
+## 🧠 Concepts Used
+- Inheritance
+- Method Overriding
+- Encapsulation
+- Abstract thinking in OOP
+
+---
+
+## 📌 Example Output
+
+Rectangle:
